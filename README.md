@@ -8,14 +8,6 @@
     <br />
 </p>
 
-<!-- conteudos -->
-
-## vá direto ao assunto!
-
-* [informações](#informações)
-* [instalação](#instalação)
-* [download direto](#download-direto)
-
 <!-- +info -->
 
 ## informações:
