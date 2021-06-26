@@ -14,4 +14,4 @@ porém irei deixar na seção abaixo, um link pra você baixar direto e sempre a
 este link foi upado no google drive
 
 última atualização:
-([cleaner.bat](encurtador.com.br/owRU7)) (25/06)
+([cleaner.bat](https://drive.google.com/file/d/1WM5WW_QSdJajT1Annj0ms7FeZx3ZM59_/view)) (25/06)
