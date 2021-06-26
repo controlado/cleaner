@@ -6,7 +6,7 @@ um arquivo escrito por mim, com intuito de limpar os arquivos temporários do co
 **as opções relacionadas ao navegador, vão resetar todo o software, incluindo suas extensões.** ⚠️
 
 ## instalação:
-por ser um arquivo de texto, você pode simplesmente copiar os códigos, colar em um bloco de notas e salvar como um .bat
+por ser um arquivo de texto, você pode simplesmente copiar os códigos e salvar como um .bat
 
 porém irei deixar na seção abaixo, um link pra você baixar direto e sempre atualizado. ;)
 
