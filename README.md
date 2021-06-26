@@ -1,17 +1,36 @@
-# cleaner
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+</p>
+  <h3 align="center">cleaner do balaclava! 🎑 </h3>
+  <p align="center">
+    <br />
+    <br />
+</p>
 
-## +info
+<!-- conteudos -->
+
+## vá direto ao assunto!
+
+* [informações](#informações)
+* [instalação](#instalação)
+* [download direto](#download-direto)
+
+<!-- +info -->
+
+## informações:
 um arquivo escrito por mim, com intuito de limpar os arquivos temporários do computador.
 
 **as opções relacionadas ao navegador, vão resetar todo o software, incluindo suas extensões.** ⚠️
+
+<!-- instalação -->
 
 ## instalação:
 por ser um arquivo de texto, você pode simplesmente copiar os códigos e salvar como um .bat
 
 porém irei deixar na seção abaixo, um link pra você baixar direto e sempre atualizado. ;)
 
-## download direto:
-este link foi upado no google drive
+<!-- direct download -->
 
-última atualização:
-([cleaner.bat](https://drive.google.com/file/d/1WM5WW_QSdJajT1Annj0ms7FeZx3ZM59_/view)) (25/06)
+## download direto:
+baixe o cleaner pela [release oficial](https://github.com/balasclava/cleaner/releases) e boas limpezas! 👌
