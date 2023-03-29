@@ -15,7 +15,7 @@ Basicamente, você seleciona as opções que deseja limpar e é isso!
 ## Como usar?
 Para usar, você pode fazer das duas maneiras abaixo:
 1. [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
-2. Com o Python instalado, siga as instruções abaixo.
+2. Com o [Python](https://www.python.org/downloads/release/python-3112/) instalado, siga as instruções abaixo.
 
 ```
 git clone https://github.com/controlado/cleaner.git
