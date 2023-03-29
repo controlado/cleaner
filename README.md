@@ -9,7 +9,7 @@
 
 ## Como usar?
 Você pode instalar de duas maneiras:
-1. [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável;
+1. [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
 2. Baixando o código e rodando com o seu Python.
 
 ## Curiosidades
