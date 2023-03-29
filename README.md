@@ -9,13 +9,8 @@
 
 ## Demonstração
 Basicamente, você seleciona as opções que deseja limpar e é isso!
-<details>
-  <summary> Clique para visualizar o vídeo da aplicação </summary>
-  <br>
 
-  https://user-images.githubusercontent.com/71716568/228566770-0d3ea97e-6be2-414c-a047-600214d0d381.mp4
-
-</details>
+https://user-images.githubusercontent.com/71716568/228566770-0d3ea97e-6be2-414c-a047-600214d0d381.mp4
 
 ## Como usar?
 
