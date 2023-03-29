@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "cleaner"
+version = "5.0.0"
+description = "Limpe os seus arquivos facilmente."
+authors = ["Yan Gabriel <yangabrielogy@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.2"
+loguru = "^0.6.0"
+pyside6 = "^6.4.3"
+pyqtdarktheme = "^2.1.0"
+pyuac = "^0.0.3"
+pypiwin32 = "^223"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[tool.poetry.group.binary.dependencies]
+auto-py-to-exe = "^2.33.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
