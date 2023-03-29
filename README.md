@@ -42,4 +42,4 @@ Você vai precisar do [Python 3.11.2](https://www.python.org/downloads/release/p
 </details>
 
 ## Curiosidades
-Esse foi o repositório que em 2020, me colocou na programação 🐣 <br>
+Esse foi o repositório que, em 2020, me apresentou a programação 🐣 <br>
