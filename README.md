@@ -9,24 +9,37 @@
 
 ## Demonstração
 Basicamente, você seleciona as opções que deseja limpar e é isso!
+<details>
+  <summary> Clique para visualizar o vídeo da aplicação </summary>
+  <br>
 
-![Demo](https://user-images.githubusercontent.com/71716568/228540555-153e8331-5b78-4f15-949c-303e9268cb09.png)
+  https://user-images.githubusercontent.com/71716568/228566770-0d3ea97e-6be2-414c-a047-600214d0d381.mp4
+
+</details>
 
 ## Como usar?
-Para usar, você pode fazer das duas maneiras abaixo:
-1. [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
-2. Com o [Python](https://www.python.org/downloads/release/python-3112/) instalado, siga as instruções abaixo.
 
-```
-git clone https://github.com/controlado/cleaner.git
-```
-```
-python -m pip install -r cleaner/requirements.txt
-```
-```
-python cleaner/cleaner
-```
+### Executável (recomendado)
+[Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
+
+### Manual
+Você vai precisar do [Python 3.11.2](https://www.python.org/downloads/release/python-3112/) instalado.
+
+<details>
+  <summary> Instruções de instalação manual </summary>
+  <br>
+
+  ```
+  git clone https://github.com/controlado/cleaner.git
+  ```
+  ```
+  python -m pip install -r cleaner/requirements.txt
+  ```
+  ```
+  python cleaner/cleaner
+  ```
+
+</details>
 
 ## Curiosidades
-O projeto que me colocou na programação! <br>
-É simples, mas tem um grande valor pra mim.
+Esse foi o repositório que em 2020, me colocou na programação 🐣 <br>
