@@ -15,6 +15,8 @@
 [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável
 
 ### Terminal
+Você vai precisar do Python 3.11 instalado
+
 <details>
   <summary> Instruções de instalação manual </summary>
   <br>
