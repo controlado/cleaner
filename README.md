@@ -7,10 +7,25 @@
 </div>
 <br>
 
+## Demonstração
+Basicamente, você seleciona as opções que deseja limpar e é isso!
+
+![Demo](https://user-images.githubusercontent.com/71716568/228540555-153e8331-5b78-4f15-949c-303e9268cb09.png)
+
 ## Como usar?
-Você pode instalar de duas maneiras:
+Para usar, você pode fazer das duas maneiras abaixo:
 1. [Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
-2. Baixando o código e rodando com o seu Python.
+2. Com o Python instalado, siga as instruções abaixo.
+
+```
+git clone https://github.com/controlado/cleaner.git
+```
+```
+python -m pip install -r cleaner/requirements.txt
+```
+```
+python cleaner/cleaner
+```
 
 ## Curiosidades
 O projeto que me colocou na programação! <br>
