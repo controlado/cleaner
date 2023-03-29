@@ -12,11 +12,9 @@
 ## Como usar?
 
 ### Executável (recomendado)
-[Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável.
+[Baixe a última versão](https://github.com/controlado/cleaner/releases/latest/download/Cleaner.exe) do arquivo executável
 
-### Manual
-Você vai precisar do [Python 3.11.2](https://www.python.org/downloads/release/python-3112/) instalado.
-
+### Terminal
 <details>
   <summary> Instruções de instalação manual </summary>
   <br>
