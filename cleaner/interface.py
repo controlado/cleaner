@@ -12,15 +12,15 @@ from cleaner import remove, resource_path, threading
 
 tasks_setup = {
     "Pastas e arquivos temporários": [
-        "/Users/%USERNAME%/AppData/Local/Temp/",
+        "%USERPROFILE%/AppData/Local/Temp/",
         "/Windows/Temp/",
         "/Windows/prefetch",
     ],
-    "Google Chrome": ["/Users/%USERNAME%/AppData/Local/Google"],
-    "Microsoft Edge": ["/Users/%USERNAME%/AppData/Local/Microsoft/Edge"],
-    "Brave": ["/Users/%USERNAME%/AppData/Local/BraveSoftware/Brave-Browser/User Data"],
-    "Opera": ["/Users/%USERNAME%/AppData/Roaming/Opera Software/Opera GX Stable"],
-    "Mozilla": ["/Users/%USERNAME%/AppData/Roaming/Mozilla"],
+    "Google Chrome": ["%USERPROFILE%/AppData/Local/Google"],
+    "Microsoft Edge": ["%USERPROFILE%/AppData/Local/Microsoft/Edge"],
+    "Brave": ["%USERPROFILE%/AppData/Local/BraveSoftware/Brave-Browser/User Data"],
+    "Opera": ["%USERPROFILE%/AppData/Roaming/Opera Software/Opera GX Stable"],
+    "Mozilla": ["%USERPROFILE%/AppData/Roaming/Mozilla"],
 }
 
 
