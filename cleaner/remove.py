@@ -37,20 +37,20 @@ async def process(tasks: list) -> None:
     paths = [path for task in tasks for path in task]
     logger.debug(f"{len(paths)} caminhos configurados")
 
-    for string_path in paths:
-        path = Path(string_path)
+    async with TaskGroup() as task_group:
+        for string_path in paths:
+            path = Path(string_path)
 
-        if not path.exists():
-            env_path = expandvars(string_path)
-            path = Path(env_path)
+            if not path.exists():
+                env_path = expandvars(string_path)
+                path = Path(env_path)
 
-        if not path.exists():
-            logger.critical(path.absolute())
-            continue
+            if not path.exists():
+                logger.critical(path.absolute())
+                continue
 
-        async with TaskGroup() as group:
-            group.create_task(directory_dirs(path))
-            group.create_task(directory_files(path))
+            task_group.create_task(directory_dirs(path))
+            task_group.create_task(directory_files(path))
 
         logger.debug(f"Tarefa {paths.index(string_path)} finalizada")
 
