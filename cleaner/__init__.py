@@ -5,6 +5,7 @@ from threading import Thread
 
 def threading(func) -> ...:
     """Coloque a função decorada em uma thread."""
+
     def coro(*args, **kwargs) -> Thread:
         thread = Thread(target=func, args=args, kwargs=kwargs)
         thread.daemon = True
