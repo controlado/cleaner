@@ -4,7 +4,7 @@
   
   Limpe o seu computador e remova arquivos temporários facilmente.
 
-  ![demo](https://raw.githubusercontent.com/controlado/cleaner/master/assets/demo.gif)
+  ![demo](https://raw.githubusercontent.com/controlado/cleaner/master/docs/assets/demo.gif)
 
 </div>
 <br>
