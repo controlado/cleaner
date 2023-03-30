@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cleaner"
-version = "5.0.0"
+version = "5.0.1"
 description = "Limpe os seus arquivos facilmente."
 authors = ["Yan Gabriel <yangabrielogy@gmail.com>"]
 readme = "README.md"
